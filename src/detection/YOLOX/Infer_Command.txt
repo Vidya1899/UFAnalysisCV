@@ -1,0 +1,2 @@
+python tools/demo.py image -n yolox-s -f exps/example/yolox_voc/yolox_voc_s.py -c ./latest_ckpt.pth.tar --path ./Track_E-Sphere-672_0_6_0_5.jpg --conf 0.3 --nms 0.65 --tsize 640 --save_resulty
+
