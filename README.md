@@ -1,14 +1,5 @@
-Turing and Leeds Data Study Group
-========================
-
 Leveraging LiDAR and Street View Data for Road Feature Detection with Ordnance Survey Northern Ireland
 -------------------------------
-Investigators : Griff Rees, Stephen Law, Andrew Elliott
-
-Facilitators : Sukanya Mandal
-
-Welcome to the OSNI DSG. This repo contains scripts, information and notebooks to get started for the data study group.
-
 
 ### Description
  
@@ -23,7 +14,3 @@ Computer Vision (CNN), Geospatial Visualisation, LiDAR Data Processing, Machine-
 * Notebooks - contains jupyter notebooks to get you started
 * Whitebox tools contains code to install and run Whitebox in the DSG virtual machines
 
-
-### Useful Links:
-Connecting to VM - https://hackmd.io/@sparrow0hawk/LIDA-turing-2021-connecting \
-Report Writing - https://hackmd.io/@KirstieJane/DSGLeeds-WritingWorkshop-20210709
